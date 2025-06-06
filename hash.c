@@ -27,7 +27,7 @@ uint32_t sigma1(uint32_t nombreDeBase) {
 
 int main() {
 
-    char mdp[] = "hashmoicettemerdepitie";
+    char mdp[] = "motdepasseàhasher";
     int count = 0;
     unsigned char tab[65];
 
